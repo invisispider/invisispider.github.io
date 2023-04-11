@@ -8,9 +8,8 @@
 #### h4
 ##### h5
 ###### h6
-####### h7
 
-### I'm a full-stack developer working remote in a small town. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I have created various full stack applications and tools predominantly using JavaScript, PHP, Python, Linux, various frameworks and libraries and cloud resources, and provide troubleshooting, data visualization, and custom code solutions. I love to constantly learn and grow and change, which is a must, as the state of <span style="background-color: indigo;">software has gone from "everything is moving to the cloud" to "everything is being done by AI" over the course of my journey.</span> I also produce and edit written content, graphics, music, and video.
+### I'm a full-stack developer working remote in a small town. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I have created various full stack applications and tools predominantly using JavaScript, PHP, Python, Linux, various frameworks and libraries and cloud resources, and provide troubleshooting, data visualization, and custom code solutions. I love to constantly learn and grow and change, which is a must, as the state of <span style="background-color: rebeccapurple;">software has gone from "everything is moving to the cloud" to "everything is being done by AI" over the course of my journey.</span> I also produce and edit written content, graphics, music, and video.
 
 | Proficient In | Learning |
 | ------------- | ------------- |
