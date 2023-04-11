@@ -1,6 +1,19 @@
 # Namaste, friends. 🙏
 
-### I'm a full-stack developer working remote in a small town. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I have created various full stack applications and tools predominantly using JavaScript, PHP, Python, Linux, various frameworks and libraries and cloud resources, and provide troubleshooting, data visualization, and custom code solutions. I love to constantly learn and grow and change, which is a must, as the state of software has gone from "everything is moving to the cloud" to "everything is being done by AI" over the course of my journey. I also produce and edit written content, graphics, music, and video.
+![avatar image adam](adamavatarcircle.png)
+
+### I'm a full-stack developer working remote in a small town. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I have created various full stack applications and tools predominantly using JavaScript, PHP, Python, Linux, various frameworks and libraries and cloud resources, and provide troubleshooting, data visualization, and custom code solutions. I love to constantly learn and grow and change, which is a must, as ==the state of software has gone from "everything is moving to the cloud" to "everything is being done by AI" over the course of my journey.== I also produce and edit written content, graphics, music, and video.
+
+| Proficient In | Learning |
+| ------------- | ------------- |
+| Python. PHP. JavaScript. Linux. Windows. | C++ |
+| Vue. React. Node. JQuery. | GPT/LLMs |
+| CSS/UI Frameworks (SASS, Bootstrap, Chakra, Materialize, Vuetify...). | Laravel |
+| Google APIs. REST APIs. Sheets. Pandas. Apps Scripts. | Django |
+| Office 365. Teams. Power BI. Excel. | Android |
+| SQL. MySQL. NoSQL. SAP. | SSR Frameworks |
+| LAMP. Flask. FastAPI. Worpress. Firebase. Compute Engine. | ML |
+| Responsive design. Crontabs. Automation. Testing. | Graph and newer DBs |
 
 ### Proficient in:
 - Python. PHP. JavaScript. Linux. Windows.
@@ -14,6 +27,8 @@
  
 ### Learning:
 C++. GPT/LLMs. Laravel. Django. Android. SSR Frameworks. ML. Graph and newer DBs.
+
+---
 
 ## Work History
 
@@ -29,4 +44,6 @@ C++. GPT/LLMs. Laravel. Django. Android. SSR Frameworks. ML. Graph and newer DBs
 
 ##### I resigned from that position due to necessary relocation and lifestyle changes, as I was starting a family of backwoods spiritualists, and I have been freelancing on Upwork and for personal network contacts, in the time since. I am actively seeking remote work. Most of my work has been under NDAs, so unfortunately, the only things I am placing on my public github are personal projects that I was just doing for fun and learning that I actually more or less finished, or because I thought they were cute.
 
-##### Get in touch with me on Upwork or LinkedIn, or check out my goofy personal web site!
+--- 
+
+### **Get in touch with me on [Upwork](https://www.upwork.com/freelancers/~01527a09cdcfd75500) or [LinkedIn](https://www.linkedin.com/in/adam-loewen-3218ab48/), or check out [my goofy personal web site](https://steinunlimited.com/)!**
