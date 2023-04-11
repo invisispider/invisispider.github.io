@@ -17,7 +17,7 @@
 | Google APIs. REST APIs. Sheets. Pandas. Apps Scripts. | Django |
 | Office 365. Power BI. Excel. Adobe apps and open source equivalents. | Android |
 | SQL. MySQL. NoSQL. SAP. | SSR Frameworks |
-| LAMP. Flask. FastAPI. Worpress. Firebase. Compute Engine. | ML |
+| LAMP. Flask. FastAPI. Wordpress. Firebase. Compute Engine. | ML |
 | Responsive design. Crontabs. Automation. Testing. | Graph and newer DBs |
 
 ---
