@@ -24,7 +24,7 @@
 
 ## Work History
 
-#### I spent most of my young life as a metamodern transcendentalist with an ironically useless Economics degree, performing and recording with bad rock bands, making bad comedy films and youtube videos, and writing bad science fiction stories, working every odd job imaginable, supporting the growth of artistic community in Western Pacific cities and towns, and eventually teaching music lessons.
+#### I spent most of my young life as a metamodern transcendental meditator with an ironically useless Economics degree, performing and recording with bad rock bands, making bad comedy films and youtube videos, and writing bad science fiction stories, working every odd job imaginable, supporting the growth of artistic community in Western Pacific cities and towns, and eventually teaching music lessons.
 
 #### Five years ago (from 2023), I came to the conclusion that the planet Earth had transformed from being predominantly human to predominantly software, and I wanted to be a part of that action. I rented a small apartment in Seattle and spent a whole Summer self-training around the clock in computer science and coding.
 
