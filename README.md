@@ -3,11 +3,17 @@
 ### I'm a full-stack developer working remote in a small town. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I have created various full stack applications and tools predominantly using JavaScript, PHP, Python, Linux, various frameworks and libraries and cloud resources, and provide troubleshooting, data visualization, and custom code solutions. I love to constantly learn and grow and change, which is a must, as the state of software has gone from "everything is moving to the cloud" to "everything is being done by AI" over the course of my journey. I also produce and edit written content, graphics, music, and video.
 
 ### Proficient in:
-- Python. PHP. JavaScript. Linux.
-- Vue. React. Node. CSS. JQuery. UI Frameworks.
-- Google APIs. Sheets. Docs. Apps Scripts. DataStudio. Firebase.
-- MS Office 365. Teams. Power BI. Excel.
+- Python. PHP. JavaScript. Linux. Windows.
+- Vue. React. Node. JQuery. 
+- CSS/UI Frameworks (SASS, Bootstrap, Chakra, Materialize, Vuetify...).
+- Google APIs. REST APIs. Sheets. Pandas. Apps Scripts.
+- Office 365. Teams. Power BI. Excel.
 - SQL. MySQL. NoSQL. SAP.
+- LAMP. Flask. FastAPI. Worpress. Firebase. Compute Engine.
+- Responsive design. Crontabs. Automation. Testing.
+ 
+### Learning:
+C++. GPT/LLMs. Laravel. Django. Android. SSR Frameworks. ML. Graph and newer DBs.
 
 ## Work History
 
@@ -22,3 +28,5 @@
 ## Current
 
 ##### I resigned from that position due to necessary relocation and lifestyle changes, as I was starting a family of backwoods spiritualists, and I have been freelancing on Upwork and for personal network contacts, in the time since. I am actively seeking remote work. Most of my work has been under NDAs, so unfortunately, the only things I am placing on my public github are personal projects that I was just doing for fun and learning that I actually more or less finished, or because I thought they were cute.
+
+##### Get in touch with me on Upwork or LinkedIn, or check out my goofy personal web site!
