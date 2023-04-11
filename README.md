@@ -34,7 +34,7 @@
 
 ## Current
 
-#### I resigned from that position due to necessary relocation and lifestyle changes, as I was starting a family of backwoods spiritualists, and I have been freelancing on Upwork and for personal network contacts, in the time since. I am actively seeking remote work. Most of my work has been under NDAs, so unfortunately, the only things I am placing on my public github are personal projects that I was just doing for fun and learning that I actually more or less finished, or because I thought they were cute.
+#### I resigned from that position due to necessary relocation and lifestyle changes, as I was starting a family of backwoods spiritualists. I have been freelancing in the time since. Most of my work has been under NDAs or not public in nature, so unfortunately, what I can share on github are mostly cute personal projects that I was just doing for fun in the rare case that I finished things like that.
 
 --- 
 
