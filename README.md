@@ -26,7 +26,7 @@
 
 #### I spent most of my young life as a metamodern transcendental meditator with an ironically useless Economics degree, performing and recording with bad rock bands, making bad comedy films and youtube videos, and writing bad science fiction stories, working every odd job imaginable, supporting the growth of artistic community in Western Pacific cities and towns, and eventually teaching music lessons.
 
-#### In 2018, I arrived at the conclusion that the planet Earth had unwittingly transformed from predominantly human to predominantly software. I wanted in on that action. I rented a small apartment in Seattle and spent a whole Summer self-training around the clock in computer science and coding.
+#### In 2018, I arrived at the conclusion that the planet Earth had unwittingly transformed from predominantly human to predominantly software -- and I wanted in on that action. I rented a small apartment in Seattle and spent a whole Summer self-training around the clock in computer science and coding.
 
 #### Having acquired these skills, I then had to pay off my self-training foray with a full time factory job. At this job, I moved over the course of a few months from a floor production position to devising and managing the company's primary product labeling solution. Only months later, after impressing management with advanced skills using Google Sheets formulas, pivot tables, Apps Scripts, Google APIs for automating data procedures between Google Cloud and MS Office 365 platforms, I fell under an excellent mentor, the company's Special Projects Manager, and acquired the exclusive role of Data Validation and Reporting, helping to create and design an AWS Php/MySQL server as the company grew from 30 to 300 employees. 
 
