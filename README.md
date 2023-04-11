@@ -22,7 +22,7 @@
 
 ---
 
-## Work History
+## Work
 
 #### I spent most of my young life as a metamodern transcendental meditator with an ironically useless Economics degree, performing and recording with bad rock bands, making bad comedy films and youtube videos, and writing bad science fiction stories, working every odd job imaginable, supporting the growth of artistic community in Western Pacific cities and towns, and eventually teaching music lessons.
 
