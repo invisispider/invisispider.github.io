@@ -15,7 +15,7 @@
 | Vue. React. Node. JQuery. | GPT/LLMs |
 | CSS/UI Frameworks (SASS, Bootstrap, Chakra, Materialize, Vuetify...). | Laravel |
 | Google APIs. REST APIs. Sheets. Pandas. Apps Scripts. | Django |
-| Office 365. Teams. Power BI. Excel. | Android |
+| Office 365. Power BI. Excel. Adobe apps and open source equivalents. | Android |
 | SQL. MySQL. NoSQL. SAP. | SSR Frameworks |
 | LAMP. Flask. FastAPI. Worpress. Firebase. Compute Engine. | ML |
 | Responsive design. Crontabs. Automation. Testing. | Graph and newer DBs |
