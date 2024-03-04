@@ -1,4 +1,4 @@
-![avatar image adam](20240206_211626.jpg)
+![avatar image adam](adamavatarcircle.png)
 # Namaste, friends. 🙏
 
 ---
@@ -34,7 +34,7 @@
 
 ## Current
 
-#### I resigned from that position due to necessary relocation and lifestyle changes, as I was starting a family of backwoods spiritualists. I have been freelancing in the time since. Most of my work has been under NDAs or not public in nature, so unfortunately, what I can share on github are mostly cute personal projects that I was just doing for fun in the rare case that I finished things like that.
+#### Most of my work has been under NDAs or not public in nature, so unfortunately, what I can share on github are mostly cute personal projects that I was just doing for fun in the rare case that I finished things like that. Reach out if you're looking for a fun, flexible, and well-rounded addition to your dev team.
 
 --- 
 
