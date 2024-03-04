@@ -38,4 +38,4 @@
 
 --- 
 
-### **Get in touch with me on [Upwork](https://www.upwork.com/freelancers/~01527a09cdcfd75500) or [LinkedIn](https://www.linkedin.com/in/adam-loewen-3218ab48/), or check out [my goofy personal web site](https://steinunlimited.com/)!**
+### **Get in touch with me on [Upwork](https://www.upwork.com/freelancers/~01527a09cdcfd75500) or [LinkedIn](https://www.linkedin.com/in/adam-loewen-3218ab48/), or check out [my personal web site](https://steinunlimited.com/)!**
