@@ -3,7 +3,7 @@
 
 ---
 
-### I'm a Full Stack developer working remote in a small town. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I also create written content, graphics, music, and video.
+### I'm a Full Stack developer in Montana. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I also create written content, graphics, music, and video.
 
 ### I have created various full stack applications and tools in several languages using various frameworks, libraries, and platforms, and provide troubleshooting, data visualization, and custom code solutions. I love to constantly learn and grow and change, which is a must, as <span style="background-color: black;">the state of software has gone from "everything is moving to the cloud" to "everything is being done by AI"</span> over the course of my journey.
 
