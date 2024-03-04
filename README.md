@@ -1,4 +1,4 @@
-![avatar image adam](adamavatarcircle.png)
+![avatar image adam](20240206_211626.jpg)
 # Namaste, friends. 🙏
 
 ---
