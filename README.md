@@ -1,41 +1,51 @@
 ![avatar image adam](adamavatarcircle.png)
-# Namaste, friends. 🙏
+
+# Adam Loewen — Data Analytics, ETL, Python Developer 🐍📊
 
 ---
 
-### I'm a Full Stack developer in Montana. My favorite niche is Front End responsive web apps with Vue and occasionally React. I help clients with app development and design, spreadsheets, analytics, scripting, testing, framework integration, and general software solutions. I also create written content, graphics, music, and video.
-
-### I have created various full stack applications and tools in several languages using various frameworks, libraries, and platforms, and provide troubleshooting, data visualization, and custom code solutions. I love to constantly learn and grow and change, which is a must, as <span style="background-color: black;">the state of software has gone from "everything is moving to the cloud" to "everything is being done by AI"</span> over the course of my journey.
+### I’m a data analyst and ETL developer with a passion for automating processes, extracting insights, and building dashboards. I help organizations move smoothly from raw data to actionable intelligence using the right blend of Python tools, scripting, APIs, and visualization platforms.
 
 ---
 
-| Proficient In | Learning |
-| ------------- | ------------- |
-| Python. PHP. JavaScript. Linux. Windows. | C++ |
-| Vue. React. Node. JQuery. | GPT/LLMs |
-| CSS/UI Frameworks (SASS, Bootstrap, Chakra, Materialize, Vuetify...). | Laravel |
-| Google APIs. REST APIs. Sheets. Pandas. Apps Scripts. | Django |
-| Office 365. Power BI. Excel. Adobe apps and open source equivalents. | Android |
-| SQL. MySQL. NoSQL. SAP. | SSR Frameworks |
-| LAMP. Flask. FastAPI. Wordpress. Firebase. Compute Engine. | ML |
-| Responsive design. Crontabs. Automation. Testing. | Graph and newer DBs |
+| Core Skills | Tools |
+| ----------- | ----- |
+| Python (Pandas, NumPy, Automation, PDF processing) | Power BI, Excel, Google Sheets |
+| ETL workflows and data pipelines | Flask, FastAPI, REST APIs |
+| Automation, scripting, and data cleaning | SQL, MySQL, NoSQL |
+| Dashboard development and reporting | Firebase, Google Cloud, Compute Engine |
+| Software integration across cloud platforms | Linux, Docker, Git |
 
 ---
 
-## Work
+## What I Do
 
-#### I spent most of my young life as a metamodern transcendental meditator with an ironically useless Economics degree, performing and recording with bad rock bands, making bad comedy films and youtube videos, and writing bad science fiction stories, working every odd job imaginable, supporting the growth of artistic community in Western Pacific cities and towns, and eventually teaching music lessons.
+With a background bridging music, art, and tech, I’ve evolved into a problem-solver who thrives on making messy data useful. I’ve worked across industries, handling:
 
-#### In 2018, I arrived at the conclusion that the planet Earth had unwittingly transformed from predominantly human to predominantly software -- I needed in on that action! I rented a small apartment in Seattle and spent a whole Summer self-training around the clock in computer science and coding.
+- Automating PDF → CSV extraction for bulk certificate processing  
+- Building Python tools for scraping, parsing, and transforming data  
+- Designing Power BI dashboards for executive KPIs  
+- Connecting cloud platforms like Google Cloud + MS365 with Python scripts and APIs  
+- Supporting cross-team data validation, reporting, and compliance  
 
-#### Having acquired these skills, I then had to pay off my self-training foray with a full time factory job. At this job, I moved over the course of a few months from a floor production position to devising and managing the company's product design, printing, and labeling solution. Only months later, after impressing management with advanced skills using Google Sheets formulas, pivot tables, Apps Scripts, Google APIs for automating data procedures between Google Cloud and MS Office 365 platforms, I fell under an excellent mentor, the company's Special Projects Manager, and acquired the exclusive role of Data Validation and Reporting, helping to create and design an AWS Php/MySQL server as the company grew from a startup to 400 employees. 
+---
 
-#### I took on primary UI and design for the company's analytics and custom software tools used by all departments, was instrumental in implementing SAP Business One ERP system, and provided weekly Power BI KPI reporting to top-level executives. I was responsible for refining data input and recording methods, auditing data and verifying figures, ensuring compliance with state and federal regulations, and played an integral role in interdepartmental communication and IT troubleshooting in a complex and fast paced environment.
+## Background
 
-## Current
+I started my career as a creative — performing, teaching, and producing music and video — before transitioning into software and analytics. Over several years, I’ve moved from self-taught coder to key team member supporting high-growth startups, helping implement ERP systems, cloud integrations, and data systems used by hundreds of employees.
 
-#### Most of my work has been under NDAs or not public in nature, so unfortunately, what I can share on github are mostly cute personal projects that I was just doing for fun in the rare case that I finished things like that. Reach out if you're looking for a fun, flexible, and well-rounded addition to your dev team.
+My foundation in economics gives me a sharp analytical mindset, while my background in arts and yogas makes me adaptable, collaborative, and eager to learn.
 
---- 
+---
 
-### **Get in touch with me on [Upwork](https://www.upwork.com/freelancers/~01527a09cdcfd75500) or [LinkedIn](https://www.linkedin.com/in/adam-loewen-3218ab48/), or check out [my personal web site](https://steinunlimited.com/)!**
+## Let’s Connect
+
+If you need a flexible, curious, and well-rounded developer with strong Python/data analytics skills, I’m open to remote work, contract roles, or collaborations.
+
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01527a09cdcfd75500)
+- 💬 [LinkedIn](https://www.linkedin.com/in/adam-loewen-3218ab48/)
+- 🌐 [Personal Site](https://steinunlimited.com/)
+
+---
+
+⭐ **Check out my repositories to see some portfolio work for freelancing, Python tools, personal projects, and some fun!**
